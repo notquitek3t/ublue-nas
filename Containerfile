@@ -1,4 +1,4 @@
-FROM ghcr.io/ublue-os/ucore-hci:latest
+FROM ghcr.io/ublue-os/ucore-hci:latest-nvidia
 
 ## Other possible base images include:
 # FROM ghcr.io/ublue-os/bazzite:stable
